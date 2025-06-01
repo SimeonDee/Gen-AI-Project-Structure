@@ -8,11 +8,11 @@ Porject overview goes here...
 
 ## Key Components
 
-- `config/`: - Configuration files separate from code
-- `src/`: - Core source code with modular organization
-- `data/`: - Organized storage for different data types
-- `examples/`: - implementation references
-- `notebooks/`: - Experimentation and analysis
+- `config/` - Configuration files separate from code
+- `src/` - Core source code with modular organization
+- `data/` - Organized storage for different data types
+- `examples/` - implementation references
+- `notebooks/` - Experimentation and analysis
 
 ## Best Practices
 
@@ -42,6 +42,6 @@ Porject overview goes here...
 
 ## Core Files
 
-- `requirements.txt`: Package dependencies
-- `README.md`: Project documentation
-- `Dockerfile`: Containerization setup
+- `requirements.txt` - Package dependencies
+- `README.md` - Project documentation
+- `Dockerfile` - Containerization setup
